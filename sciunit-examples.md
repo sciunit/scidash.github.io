@@ -11,6 +11,9 @@ my_test = MyTest(**my_params) # Instantiate a test that you write.
 score = my_test.judge() # Runs the test and return a rich score containing test results and more.  
 ```
 
+## Source Code
+[SciUnit Repository](https://github.com/scidash/sciunit)
+
 ## Documentation
 [Chapter 1](https://github.com/scidash/sciunit/blob/master/docs/chapter1.ipynb) / 
 [Chapter 2](https://github.com/scidash/sciunit/blob/master/docs/chapter2.ipynb) /
