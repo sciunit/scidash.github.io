@@ -1,0 +1,8 @@
+title: "SciDash: SciUnit and NeuronUnit Model Validation Frameworks"
+description: The SciDash Project provides tools, SciUnit and NeuronUnit, to make validation of scientific models against experimental data easy, transparent, and continuously integrated into the model development process.
+google_analytics: UA-74220261-1
+show_downloads: false
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

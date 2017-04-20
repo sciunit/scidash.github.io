@@ -1,0 +1,5 @@
+### SciDash aims to make validation of scientific models against experimental data easy, transparent, and continuously integrated into the model development process.
+
+| <a href="sciunit-examples.html"><img src="https://raw.githubusercontent.com/scidash/assets/master/logos/sciunit.png" width="200"></a> | <a href="neuronunit-examples.html"><img src="https://raw.githubusercontent.com/scidash/assets/master/logos/neuronunit.png" width="200"></a> |
+|---|---|
+| [SciUnit](sciunit-examples.html) is a discipline-agnostic framework for model validation, handling all of the testing workflow by using a implementation-independent interface to models.  SciUnit also contains code for visualization of model results, and command line tools for incorporating testing into continuous integration workflows. | [NeuronUnit](neuronunit-examples.html) is a SciUnit library for validation of neuron and ion channel physiology models.  It implements an interface to several simulators and model description languages, handles test calculations according to domain standards, and enables automated construction of tests based on data from several major public data repositories. |
