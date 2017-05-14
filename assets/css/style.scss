@@ -3,4 +3,6 @@
 
 @import "{{ site.theme }}";
 
-
+.main-content table td {
+    border: 0px; 
+}

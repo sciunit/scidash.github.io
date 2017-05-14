@@ -12,10 +12,12 @@ score = my_test.judge() # Runs the test and return a rich score containing test 
 ```
 
 ## Source Code
-[SciUnit Repository](https://github.com/scidash/sciunit)
+[SciUnit  GitHub Repository](https://github.com/scidash/sciunit)
 
-## Documentation
+## Tutorial Documentation
 [Chapter 1](https://github.com/scidash/sciunit/blob/master/docs/chapter1.ipynb) / 
 [Chapter 2](https://github.com/scidash/sciunit/blob/master/docs/chapter2.ipynb) /
 [Chapter 3](https://github.com/scidash/sciunit/blob/master/docs/chapter3.ipynb) /
 
+## API Documentation:
+[Read the Docs](http://sciunit.rtfd.io)
