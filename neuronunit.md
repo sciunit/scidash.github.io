@@ -3,7 +3,7 @@
 ![NeuronUnit Logo](https://raw.githubusercontent.com/scidash/assets/master/logos/neuronunit.png)
 
 ## Concept:  
-[The manuscript](https://github.com/rgerkin/papers/blob/master/neuronunit_frontiers/Paper.pdf)
+[The manuscript](https://www.overleaf.com/read/kjhjgtzjcsvq)
 
 ## Source Code:
 [NeuronUnit GitHub Repository](https://github.com/scidash/neuronunit)
