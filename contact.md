@@ -1,6 +1,6 @@
 # About Us
 
 ### Authors and Contributors
-This project is directed by Rick Gerkin (@rgerkin), and was co-created by Cyrus Omar (@cyrus-).  
+This project is directed by Rick Gerkin ([@rgerkin](http://github.com/rgerkin)) and Sharon Crook ([@scrook](http://github.com/scrook)), and was co-created by Cyrus Omar ([@cyrus-](http://github.com/cyrus-)).  
 ### Support or Contact
-Rick can be reached at rgerkin[AT]asu.edu or through [the ASU ICON lab website.](http://iconlab.asu.edu)
+Rick and Sharon can be reached at rgerkin[AT]asu.edu and scrook[AT]asu.edu or through the Arizona State University [ICON lab website](http://iconlab.asu.edu).
