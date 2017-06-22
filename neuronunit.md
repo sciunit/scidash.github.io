@@ -2,7 +2,7 @@
 
 ### We develop **[NeuronUnit](neuronunit.html)**, a *[SciUnit](sciunit.html)*-driven library for the investigation of neuron, neural circuit, and ion channel models.
 
-<p style="text-align: center;"><a href="neuronunit.html"><img src="https://raw.githubusercontent.com/scidash/assets/master/logos/neuronunit/NeuronUnitBlack2.png" width="300" align="center"></a>
+<p style="text-align: center;"><a href="neuronunit.html"><img src="https://raw.githubusercontent.com/scidash/assets/master/logos/neuronunit/NeuronUnitBlack2.png" width="800" align="center"></a>
 <p style="text-align: justify;"><a href="neuronunit.html">NeuronUnit</a> implements an interface to several simulators and model description languages, handles test calculations according to domain standards, and enables automated construction of tests based on data from several major public data repositories.</p></p>
 
 ## Overview 
