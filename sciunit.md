@@ -39,3 +39,6 @@ Community participation is encouraged!
 
 ### Developer Reference
 [API Documentation](http://sciunit.rtfd.io)
+
+### Reproducible Research ID
+RRID:[SCR_014528](https://scicrunch.org/resources/Any/record/nlx_144509-1/3faed1d9-6579-5da6-b4b4-75a5077656bb/search?q=sciunit&l=sciunit)
