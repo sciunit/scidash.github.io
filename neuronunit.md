@@ -41,3 +41,6 @@ Community participation is encouraged!
 
 ### Developer Reference
 [API Documentation](http://neuronunit.rtfd.io)
+
+## Reproducible Research ID
+RRID:[SCR_015634](https://scicrunch.org/scicrunch/Resources/record/nlx_144509-1/c70f9dfd-0fc6-5052-9d90-a571c2ebea2e/search)
