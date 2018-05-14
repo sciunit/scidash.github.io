@@ -1,6 +1,6 @@
 ### Good scientific models are *formalized hypotheses* that can make predictions about system behavior. How can scientists evaluate the strength of a candidate model, or which one is best among many such models of the same system?
 
-<p style="text-align: center;"><img src="https://i.ytimg.com/vi/waexG16WZrE/maxresdefault.jpg" width="700">
+<p style="text-align: center;"><img src="https://78.media.tumblr.com/fbde47a13ba6693ce245f95a4ba8d528/tumblr_o0k7mkhNSN1uk13a5o1_500.gif" width="700">
 <br>
 Which model best predicts the experimental observations?</p>
 
