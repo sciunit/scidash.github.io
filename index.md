@@ -2,7 +2,7 @@
 
 <p style="text-align: center;"><img src="https://78.media.tumblr.com/fbde47a13ba6693ce245f95a4ba8d528/tumblr_o0k7mkhNSN1uk13a5o1_500.gif" width="700">
 <br>
-Which model best predicts the experimental observations?</p>
+Which model best predicts the experimental observations? (Animation by @malincse)</p>
 
 ### **SciDash** is a project that enables the reproducible execution and visualization of *data-driven unit tests* for assessing model quality.  It is a 21st century vision of the scientific method.
 
