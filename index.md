@@ -14,7 +14,7 @@ What if every competing model was transparently evaluated against a suite of uni
 
 <table>
   <tr>
-    <td width="33%"><a href="sciunit.html"><img src="https://raw.githubusercontent.com/scidash/assets/master/logos/sciunit.png" width="200"></a></td>
+    <td width="33%"><a href="sciunit.html"><img src="https://raw.githubusercontent.com/scidash/assets/master/logos/SciUnit/sci-unit-square.png" width="200"></a></td>
     <td>&nbsp;</td>
     <td width="33%"><a href="neuronunit.html"><img src="https://raw.githubusercontent.com/scidash/assets/master/logos/neuronunit/NeuronUnitBlack1_vertical.png" width="200"></a></td>
     <td>&nbsp;</td>
