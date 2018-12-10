@@ -2,7 +2,7 @@
 
 ### We provide **[SciUnit](sciunit.html)**, a Pythonic framework for data-driven unit testing that separates the interface from the implementation, respecting the diversity of conventions for modeling and data collection.
 
-<p style="text-align: center;"><a href="sciunit.html"><img src="https://raw.githubusercontent.com/scidash/assets/master/logos/sciunit.png" width="400"></a>
+<p style="text-align: center;"><a href="sciunit.html"><img src="https://raw.githubusercontent.com/scidash/assets/master/logos/SciUnit/sci-unit-tag.png" width="650"></a>
 <p style="text-align: justify;"><a href="sciunit.html">SciUnit</a> is a discipline-agnostic framework for model validation, handling all of the testing workflow by using a implementation-independent interface to models.  SciUnit also contains code for visualization of model results, and command line tools for incorporating testing into continuous integration workflows.</p></p>
 
 ## Overview
