@@ -24,7 +24,7 @@ What if every competing model was transparently evaluated against a suite of uni
   </tr>
 </table>
 
-## The SciDash project aims to make validation of scientific models against experimental data easy, transparent, and continuously integrated into the model development process.
+## SciUnit aims to make validation of scientific models against experimental data easy, transparent, and continuously integrated into the model development process.
 
 Some other projects using this technology can be found [here](https://github.com/scidash/sciunit/network/dependents?dependent_type=REPOSITORY), including [NeuronUnit](/neuronunit.html) for neurons and ion channels.
 
