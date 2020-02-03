@@ -27,7 +27,7 @@ score = my_test.judge() # Runs the test and return a rich score containing test 
 - Command line tools for headless systems
 
 ## Source Code
-[![SciUnit GitHub Repository](assets/github.png)](https://github.com/scidash/sciunit)
+[![SciUnit GitHub Repository](https://raw.githubusercontent.com/scidash/assets/master/logos/github.png)](https://github.com/scidash/sciunit)
 
 Community participation is encouraged!
 

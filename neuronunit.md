@@ -27,7 +27,7 @@ score = my_test.judge() # Runs the test and return a rich score containing test 
 - Docker containers for reproducible testing
 
 ## Source Code
-[![NeuronUnit GitHub Repository](assets/github.png)](https://github.com/scidash/neuronunit)
+[![NeuronUnit GitHub Repository](https://raw.githubusercontent.com/scidash/assets/master/logos/github.png)](https://github.com/scidash/neuronunit)
 
 Community participation is encouraged!
 
